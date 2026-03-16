@@ -3,8 +3,8 @@
 Eine interaktive, performante C#-Konsolenanwendung, die automatische Wegfindung (Pathfinding) in einem 2D-Labyrinth demonstriert. Der Fokus lag auf algorithmischer Logik (Backtracking), der effizienten Manipulation von 2D-Arrays und einem sauberen Konsolen-Rendering mit UTF-8-Zeichen und Emojis.
 
 <p align="center"> 
-  <img src="./docs/start_game.png" width="48%" alt="Labyrinth Start Screenshot" /> 
-  <img src="./docs/game_over.png" width="48%" alt="Labyrinth Solving Screenshot" /> 
+  <img src="./docs/start_game.png" width="48%" align="top" alt="Labyrinth Start Screenshot" /> 
+  <img src="./docs/game_over.png" width="48%" align="top" alt="Labyrinth Solving Screenshot" /> 
 </p>
 
 ## Tech Stack
